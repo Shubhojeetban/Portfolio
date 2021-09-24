@@ -39,7 +39,7 @@ const HeroStyles = styled.div`
     border: 2px solid var(--gray-1);
   }
   .hero__info {
-    margin-top: -18rem;
+    margin-top: 3rem;
   }
   .hero__social,
   .hero__scrollDown {
@@ -161,8 +161,7 @@ export default function HeroSection() {
           </div>
           <div className="hero__info">
             <PText>
-              I am working as a Software Developer and Passionate about implementing and launching new projects.
-              Strong in design and integration with intuitive problem-solving skills.
+              I am working as a Software Developer and am passionate about implementing, and launching new projects.
             </PText>
             <Button btnText="see my works" btnLink="/projects" />
           </div>

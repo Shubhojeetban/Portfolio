@@ -10,7 +10,7 @@ const projects = [
     id: uuidv4(),
     name: 'Medicia',
     desc:
-      'A REST API for the medical history tracking application. Developed for the convience of the Patients and Doctors.',
+      'A REST API for the medical history tracking application. Developed for the convience of patients and doctors.',
     img: MediciaImg,
     link : 'https://github.com/Shubhojeetban/MediciaApi.git',
   },
@@ -18,7 +18,7 @@ const projects = [
     id: uuidv4(),
     name: 'Ban Music Player',
     desc:
-      'An android music player application for making the music listening experince more exciting and soothing.',
+      'An android music player for making the music experince more exciting and gripping.',
     img: MusicImg,
     link : 'https://github.com/Shubhojeetban/MusicPlayer.git',
   },
@@ -26,7 +26,7 @@ const projects = [
     id: uuidv4(),
     name: 'URL Shortner',
     desc:
-      'Using this app you can shorten a long url and use it in alternative for the original URL',
+      'Using this application you can shorten a long url and use it in alternative for the original URL.',
     img: UrlImg,
     link : 'https://github.com/Shubhojeetban/url-shortner.git',
   },
@@ -34,7 +34,7 @@ const projects = [
     id: uuidv4(),
     name: 'QR Code Scanner and Generator',
     desc:
-      'An application to generate an QR code and can be used commercially. Also it can scan any QR code to get the content',
+      'An application to generate QR codes and can be used commercially. Also it can scan any QR code.',
     img: QrImg,
     link : 'https://github.com/Shubhojeetban/javaQRScannerGenerator.git',
   },
