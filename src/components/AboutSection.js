@@ -80,8 +80,7 @@ export default function AboutSection() {
             heading="About Me"
           />
           <PText>
-            I am a Software Developer from Jharkhand, India. I love to learn new technologies and
-            programming languages. It's fascinating to me to develop new Software Applications.
+            I am a Software Developer from Jharkhand, India. I love to learn new technologies. It's fascinating to me to develop new Software Applications.
             I have got a strong sense of design and intergration with intuitive problem-solving skills.
           </PText>
           <div className="aboutSection__buttons">
